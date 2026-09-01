@@ -29,4 +29,4 @@ Dr. Kevin Nichols, Zane Reynolds<br>
 | Duotao Gao             | [JohnDoe.GitHub](https://embedded-systems-design.github.io/EGR304DataSheetTemplate/) |
 | Gabriel Toneser Facchin | link |
 | Raymundo Sanchez       | link |
-| Zice Sun               | https://empcity21.github.io/Empcity21_EGR304_F26.github.io/ |
+| Zice Sun               | [Empcity21.GitHub](https://empcity21.github.io/Empcity21_EGR304_F26.github.io/) |
